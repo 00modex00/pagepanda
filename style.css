@@ -1,0 +1,133 @@
+.im{
+font-family: Arial, Helvetica, sans-serif;
+background-color: ;
+   background-image: url(https://img.freepik.com/premium-vector/nuzul-ar-quran_178028-58.jpg?w=2000);
+   background-size: auto;
+padding-top: 100px;  
+    background-repeat: no-repeat;
+       background-size: cover;
+   color: white;
+  background-color: orange;
+  background-color: blueviolet;
+    color: blanchedalmond;
+    padding: 400px 400px;
+    border: 20px sienna solid;
+    text-align: center;
+    text-decoration: none;
+   
+ 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+.a:hover{
+    transform: rotate3d(12.6);
+    transition: 2s;
+    color: blue;
+    }
+.q{
+    margin-top: 300px;
+        text-decoration:solid;
+    text-align: center;
+   
+    width: 500px;
+    color: white;
+      margin-left: 00px 500px;
+    padding-top: 10px;
+    align-items: center;
+    border-radius:12px ;
+    display: flex;
+    display: inline-block;
+     font-size: 50px;
+     text-decoration: none;
+    z-index: 1000;
+    background-image: url(https://images.unsplash.com/photo-1575318080244-dd217d9db1e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHVycGxlJTIwY29sb3J8ZW58MHx8MHx8&w=1000&q=80);
+
+  }
+#a:hover{
+    cursor: pointer;
+    
+}
+.w{
+    text-decoration:solid;
+    text-align: center;
+    color: white;
+    width: 500px;
+   
+    background-image: url(https://images.unsplash.com/photo-1575318080244-dd217d9db1e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHVycGxlJTIwY29sb3J8ZW58MHx8MHx8&w=1000&q=80);
+    padding-top: 10px;
+    align-items: center;
+    border-radius:12px ;
+    display: flex;
+    display: inline-block;
+     font-size: 50px;
+     text-decoration: none;
+    z-index: 1000;
+}
+.e{
+    text-decoration:solid;
+    text-align: center;
+    background-image: url(https://images.unsplash.com/photo-1575318080244-dd217d9db1e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHVycGxlJTIwY29sb3J8ZW58MHx8MHx8&w=1000&q=80);
+    width: 500px;
+    color: white;
+  
+    padding-top: 10px;
+    align-items: center;
+    border-radius:12px ;
+    display: flex;
+    display: inline-block;
+     font-size: 50px;
+     text-decoration: none;
+    z-index: 1000;
+}
+.r{
+    text-decoration:solid;
+    text-align: center;
+    background-image: url(https://images.unsplash.com/photo-1575318080244-dd217d9db1e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHVycGxlJTIwY29sb3J8ZW58MHx8MHx8&w=1000&q=80);
+    width: 500px;
+   
+    color: white;
+    padding-top: 10px;
+    align-items: center;
+    border-radius:12px ;
+    display: flex;
+    display: inline-block;
+     font-size: 50px;
+     text-decoration: none;
+    z-index: 1000;
+}
+.c{
+    text-decoration:solid;
+    text-align: center;
+    color: white;
+    width: 500px;
+  
+    background-image: url(https://images.unsplash.com/photo-1575318080244-dd217d9db1e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHVycGxlJTIwY29sb3J8ZW58MHx8MHx8&w=1000&q=80);
+    padding-top: 10px;
+    align-items: center;
+    border-radius:12px ;
+    display: flex;
+    display: inline-block;
+     font-size: 50px;
+     text-decoration: none;
+    z-index: 1000;
+}
+
