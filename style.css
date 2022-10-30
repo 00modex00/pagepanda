@@ -131,3 +131,19 @@ padding-top: 100px;
     z-index: 1000;
 }
 
+.k{
+    text-decoration:solid;
+    text-align: center;
+    color: white;
+    width: 500px;
+  
+    background-image: url(https://images.unsplash.com/photo-1575318080244-dd217d9db1e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHVycGxlJTIwY29sb3J8ZW58MHx8MHx8&w=1000&q=80);
+    padding-top: 10px;
+    align-items: center;
+    border-radius:12px ;
+    display: flex;
+    display: inline-block;
+     font-size: 50px;
+     text-decoration: none;
+    z-index: 1000;
+}
