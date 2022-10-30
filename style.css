@@ -149,4 +149,5 @@ padding-top: 100px;
 }
 #video{
     width: 75%;
+   z-index: 1000;
 }
