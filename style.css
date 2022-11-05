@@ -2,7 +2,7 @@
 font-family: Arial, Helvetica, sans-serif;
 background-color: ;
    background-image: url(https://img.freepik.com/premium-vector/nuzul-ar-quran_178028-58.jpg?w=2000);
-   background-size: auto;
+   background-size: 100%;
 padding-top: 100px;  
     background-repeat: no-repeat;
        background-size: cover;
@@ -150,4 +150,5 @@ padding-top: 100px;
 #video{
     width: 75%;
    z-index: 1000;
+   padding-left:50 50
 }
